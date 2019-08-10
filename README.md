@@ -1,1 +1,1 @@
-Repositório versiculododia - Aplicativo
+Repositório versiculododia - Aplicativo feito em React Native
